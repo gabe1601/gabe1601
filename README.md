@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header"/>
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Pereira;I'm+23+years+old;I+am+from+Blumenau,+SC;I+am+study+Java;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
@@ -22,6 +21,3 @@
 <img align="center" alt="gabe-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="gabe-javaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="gabe-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=footer"/>
